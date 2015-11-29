@@ -1,8 +1,8 @@
 /**
  * test.java
- * ¹¦ÄÜ£º
- * ±ä¸üÂÄÀú
- * 2015Äê3ÔÂ31ÈÕ ÏÂÎç9:55:25	wx	´´½¨
+ * åŠŸèƒ½ï¼š
+ * å˜æ›´å±¥å†
+ * 2015å¹´3æœˆ31æ—¥ ä¸‹åˆ9:55:25	wx	åˆ›å»º
  */
 package testgit;
 
@@ -21,6 +21,7 @@ public class test {
 		// TODO Auto-generated method stub
 		System.out.println("hello word 1");
 		System.out.println("hello word 2");
+		System.out.println("hello word 3");
 	}
 
 }
